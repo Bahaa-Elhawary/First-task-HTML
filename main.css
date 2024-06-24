@@ -4,6 +4,8 @@
     box-sizing: border-box;
 }
 
+
+/* navigation bar */
 .navbar{
     background-color:gray;
     padding: 10px;
@@ -53,6 +55,8 @@ ul li a:hover{
 
 }
 
+
+/* content */
 .content{
     background-color: rgb(238, 129, 51);
     padding: 0px;
